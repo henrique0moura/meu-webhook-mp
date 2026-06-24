@@ -1,5 +1,11 @@
 {
   "name": "webhook-mp",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "echo 'no build needed'"
+  },
+  "dependencies": {
+    "@base44/sdk": "^0.8.32"
+  }
 }
