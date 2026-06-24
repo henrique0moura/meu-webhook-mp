@@ -1,0 +1,8 @@
+{
+  "name": "gestorarq-mp-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@base44/sdk": "^0.8.32"
+  }
+}
